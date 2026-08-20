@@ -1,0 +1,13 @@
+# StreetCast website
+
+This repository contains a static website configured for Vercel.
+
+## Vercel import settings
+
+- Framework Preset: Other
+- Root Directory: `./`
+- Build Command: leave blank
+- Output Directory: `public` (also set by `vercel.json`)
+- Install Command: leave blank
+
+The deployed home page is `public/index.html`.
